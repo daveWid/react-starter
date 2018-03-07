@@ -2,6 +2,8 @@
 
 Just me messing around with React/Webpack in code splitting mode. I don't really have any desire to create SPAs so this was a exercise in making different components that could be rendered independently. Luckily with webpack you can split out your code which makes this use case fairly easy to pull off.
 
+https://davewid.github.io/react-starter/
+
 ## Development
 
 ```
